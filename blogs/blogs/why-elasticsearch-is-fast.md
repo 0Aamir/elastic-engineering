@@ -1,6 +1,6 @@
 # Why Elasticsearch Is So Fast
 
-![Why Elasticsearch Is So Fast](images/why-elasticsearch-is-fast.png)
+![Why Elasticsearch Is So Fast](../images/why-elasticsearch-is-fast.png)
 
 One of the first questions I had when I started working with Elasticsearch was:
 
